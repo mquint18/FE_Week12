@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": "f5eb",
+      "title": "The Eye of the World ",
+      "author": "Robert Jordan",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/0/00/WoT01_TheEyeOfTheWorld.jpg",
+      "description": "Several youngsters from backwater village must flee with a mysterious couple when evil creatures attack. Book One of the Wheel of Time series."
+    },
+    {
+      "id": "a0da",
+      "title": "The Great Hunt",
+      "author": "Robert Jordan",
+      "coverImage": "https://m.media-amazon.com/images/I/51OssbcwWjL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+      "description": "The group divides - half on a quest to recover the fabled Horn of Valere - the others to reach the White Tower of Tar Valon. Book Two of the Wheel of Time Series."
+    },
+    {
+      "id": "b9c4",
+      "title": "The Dragon Reborn",
+      "author": "Robert Jordan",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659905781i/34897.jpg",
+      "description": "Rand al'Thor continues his quest to fulfill the prophesies of the Dragon. Book 3 of the Wheel of Time."
+    }
+  ]
+}

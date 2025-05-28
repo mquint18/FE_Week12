@@ -1,0 +1,65 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(12, 210, 236); }
+
+    body {
+    margin: 2rem 5rem;
+
+}
+
+h1 {
+    text-align: center;
+    color:rgb(30, 4, 227);
+    text-shadow:2px 2px 2px rgb(132, 192, 248);
+    background-color: rgb(34, 229, 226);
+    border-radius: 1rem;
+}
+
+img {
+  display: block;
+  margin: 1rem auto;
+  width: 50%;
+  border-radius: 1rem;
+}
+
+
+h2 {
+    text-align: center;
+    margin: 2rem auto 1rem auto;
+    background-color: rgb(236, 221, 80);
+    border-radius: 1rem;
+
+}
+
+h4 {
+    text-align: center;
+    margin: 1rem auto;
+    background-color: rgb(209, 205, 174);
+    border-radius: 1rem;
+}
+
+p{
+    font-size: 15px;
+    text-align: left;
+    background-color: rgb(157, 223, 237);
+    border-radius: 1rem;
+    margin: 2rem auto 1rem auto;
+    padding: 3px;
+
+}
+
+button {
+    border-radius: 1rem;
+}
+
+button:hover  {
+    background-color: blue;
+    color: white;
+  }
+
+  #create-book { 
+    text-align: center;
+    color:rgb(30, 4, 227);
+    text-shadow:2px 2px 2px rgb(132, 192, 248);
+    border-radius: 1rem;
+}
