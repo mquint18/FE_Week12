@@ -15,11 +15,18 @@
       "description": "The group divides - half on a quest to recover the fabled Horn of Valere - the others to reach the White Tower of Tar Valon. Book Two of the Wheel of Time Series."
     },
     {
-      "id": "b9c4",
+      "id": "e9c1",
       "title": "The Dragon Reborn",
       "author": "Robert Jordan",
-      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659905781i/34897.jpg",
-      "description": "Rand al'Thor continues his quest to fulfill the prophesies of the Dragon. Book 3 of the Wheel of Time."
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/WoT01_TheEyeOfTheWorld.jpg/250px-WoT01_TheEyeOfTheWorld.jpg",
+      "description": "Rand al'Thor, having been declared the Dragon Reborn by Moiraine Damodred, secretly goes to Tear to prove himself. Along the way he is hunted by Darkhounds and Darkfriends. Book 3 of the Wheel of Time series."
+    },
+    {
+      "id": "9ce9",
+      "title": "The Shadow Rising",
+      "author": "Robert Jordan",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/WoT04_TheShadowRising.jpg/250px-WoT04_TheShadowRising.jpg",
+      "description": "Rand al'Thor has just claimed the crystal sword Callandor to prove himself the Dragon Reborn. Book 4 of the Wheel of Time Series."
     }
   ]
 }
