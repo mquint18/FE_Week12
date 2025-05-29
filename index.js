@@ -7,7 +7,7 @@ const bookURL = `http://localhost:3000/books`
 const bookForm = document.querySelector('#book-form')
 let allBooks = []
 
-
+//get data from json and display send to html webpage
 
 fetch(`${bookURL}`)
     .then( response => response.json() )
@@ -24,6 +24,7 @@ fetch(`${bookURL}`)
       </div>`
     })) // end of book fetch
 
+// add new entry on webpage and send it to json server and update display on website
 
     bookForm.addEventListener('submit', (e) => {
      e.preventDefault()
@@ -59,7 +60,7 @@ fetch(`${bookURL}`)
           <button data-id="${book.id}" id="delete-${book.id}" data-action="delete">Delete</button>
         </div>`
 })
-    
+    //edit or delete entry from json and website
 })
 bookContainer.addEventListener('click', (e) => {
     if (e.target.dataset.action === 'edit') {
